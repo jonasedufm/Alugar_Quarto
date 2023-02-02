@@ -1,0 +1,7 @@
+C:\Users\jagjonmo\OneDrive - Flex\Desktop\Engenharia\C# Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\jagjonmo\OneDrive - Flex\Desktop\Engenharia\C# Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\jagjonmo\OneDrive - Flex\Desktop\Engenharia\C# Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\jagjonmo\OneDrive - Flex\Desktop\Engenharia\C# Projects\ConsoleApp1\ConsoleApp1\obj\Debug\AluguelQuartos.csproj.CoreCompileInputs.cache
+C:\Users\jagjonmo\OneDrive - Flex\Desktop\Engenharia\C# Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\jagjonmo\OneDrive - Flex\Desktop\Engenharia\C# Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\jagjonmo\OneDrive - Flex\Desktop\Engenharia\C# Projects\ConsoleApp1\ConsoleApp1\obj\Debug\AluguelQuartos.csprojAssemblyReference.cache
